@@ -1,0 +1,33 @@
+
+actions : ⇰
+
+wrap up :
+  - agile manifesto et 12factors.net/manifesto
+  - livres : The Pragmatic Programmer...
+
+note :
+  - qcm x 2
+  - Web service
+
+ongoing :
+  - i'm on : Récupération du projet == Bootstrap de la base
+
+partie 1 :
+  github :
+    - test link (notamment noyau linux)
+    - ajout links projets google
+    - schéma commit avec hash codes
+    - schéma push et pull
+
+  gradle :
+    - gradlew
+    - gradle tR
+    - gradle tomcatRun debug
+
+front crash course :
+  - node
+  - yarn
+
+
+disgression and more :
+  - Evolution vers front en js (Angular / React / VueJS) en services REST en back
